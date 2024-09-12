@@ -1,3 +1,11 @@
+'''
+Guidelines:
+1. User should be have the choice to choose type of password format
+2. Password Formats: 
+    a.Alphabets
+    b.Alphanumeric
+    C.Alphanumeric with Symbols - !@#$%^&*()-_=+{}[]\|;:"'
+'''
 import random
 
 def RInt(a, b):
